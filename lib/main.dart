@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         message: 'mari431',
         location: BannerLocation.topEnd,
         color: Colors.green,
-            child: Text('Custome Banner',style: TextStyle(fontSize: 30),),
+            child: Text('Custom Banner',style: TextStyle(fontSize: 30),),
       )),
     );
   }
